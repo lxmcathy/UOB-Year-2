@@ -1,0 +1,1 @@
+The fiile should run in Haskell environment.
