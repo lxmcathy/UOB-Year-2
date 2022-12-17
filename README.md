@@ -1,5 +1,5 @@
 # UOB-Year-2
-The moduled are:  
+The modules are:  
 **Artificial Intelligence2**  
 **Functional Programming-Haskell**  
 **SE Practice and Building Useable System**  
